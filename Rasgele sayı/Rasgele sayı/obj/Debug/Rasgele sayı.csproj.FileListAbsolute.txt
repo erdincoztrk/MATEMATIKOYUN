@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\bin\Debug\Rasgele sayı.exe.config
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\bin\Debug\Rasgele sayı.exe
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\bin\Debug\Rasgele sayı.pdb
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele sayı.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.Form1.resources
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele sayı.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele sayı.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele sayı.exe
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele sayı.pdb
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.Toplama.resources
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.ÇIKARTMA.resources
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.çarpma.resources
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.bolme.resources
+C:\Users\HUAWEI\source\repos\Rasgele sayı\Rasgele sayı\obj\Debug\Rasgele_sayı.odulsepeti.resources
